@@ -1,0 +1,107 @@
+baseURL = "https://silaarts.netlify.com/"
+languageCode = "en-us"
+title = "Sil Aarts"
+theme = "personal-web"
+copyright="© Sil Aarts"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Dr. Sil Aarts"
+  sub = "Assistant professor | scientist | teacher | coder | AWO-ZL "
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "black"
+  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  h1 = 'Yikes!'
+  p = "It seems that this page doesn't exist. Try the rest of my website. That should go better!"
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "activities"
+  portfolio = "portfolio"
+  blog = "blog"
+
+[params.sidebar]
+  backgroundImage = "post/images/tech.jpg"
+  gradientOverlay = '' # default: rgba(0,0,0.5,0.5),rgba(0,0,0.5,0.5)
+  logo = "post/images/me_round.png" 
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  github = "https://github.com/silaarts"
+  twitter = "https://twitter.com/sil_aarts"
+
+[params.contact]
+  email = "s.aarts@maastrichtuniversity.nl"
+  text= "Email me 📧"# text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "About me"
+  title = "About section"
+  url = "/about/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "portfolio"
+  name = "Portfolio"
+  title = "Portfolio"
+  url = "/portfolio/"
+  weight = -110
+  
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  title = "Blog"
+  url = "/blog/"
+  weight = -100
+  
+[[menu.main]]
+  identifier = "news"
+  name = "In the news"
+  title = "In the news"
+  url = "/news/"
+  weight = -90
+
+[[menu.main]]
+  identifier = "My activitities"
+  name = "My activities"
+  title = "My activities"
+  url = "/post/"
+  weight = -80
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
