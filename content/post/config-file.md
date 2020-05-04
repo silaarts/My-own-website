@@ -23,7 +23,7 @@ Here you can find some of my visualisations for [#TidyTuesday](<https://twitter.
 
 ![TidyTuesday Rainfall Australia](/post/images/RainfallAustralia.gif)
 
-{{< figure src="/post/images/christmassongs.png" >}}
+{{< figure src="/post/images/Emperors.png" >}}
 
 {{< figure src="/post/images/dogsI.png" >}}
 
