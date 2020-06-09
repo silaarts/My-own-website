@@ -26,7 +26,7 @@ In my current job, I spend half my time on research, and half my time on educati
 On this website you will find my portfolio and more and a list of my publications including downloadable PDFs or links to websites in case of online articles. In addition, also some of my datavisualisations are displayed here even as my blog posts.
 
 ### Interests in keywords
-Data-driven explorations (incl. text-mining), R(stats), Quality of Care, Long-term Elderly Care, Nursing Home Care, Statistical Analysis, Qualitative Research, Technology Acceptance & Implementation 🤖, Ethics. 
+Data-driven explorations (incl. text-mining), R(stats) (currently learning Python), Quality of Care, Long-term Elderly Care, Nursing Home Care, Statistical Analysis, Qualitative Research, Technology Acceptance & Implementation 🤖, Ethics. 
 
 ### You can also find my work @
 https://orcid.org/0000-0002-3121-412X
