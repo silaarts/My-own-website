@@ -35,10 +35,10 @@ Senior lecturer and reseacher, Health Innovations & Technology, Fontys Universit
 #### December 2011
 Post-doctoral position at the Department of General Practice, CAPHRI and MHeNS, Maastricht University. Declined.
 
-#### 🎓February 2008 - February 2012
+#### 🎓 February 2008 - February 2012
 PhD student at the Department of General Practice. School for Public Health and Primary Care (CAPHRI) and School for Mental Health and Neuroscience (MHeNS). Date: April, 13th, 2012.
 
-#### 🎓September 2003 - February 2008
+#### 🎓 September 2003 - February 2008
 Bachelor and Master Neuropsychology at Maastricht University & half year internship at the Memory Clinic of the Maastricht Academic Hospital.
 
 ## Research projects
