@@ -13,11 +13,11 @@ Since 2018, I am working as an assistant professor at [AWO-ZL](<https://www.acad
 
 Questions that interest me and that are related to my research line:
 
-*Which role can data (and the analyses thereof) play in studying quality of care? How can these types of data improve the quality of care, quality of life and quality of work in long-term elderly care?*
+* Which role can data (and the analyses thereof) play in studying quality of care? How can these types of data improve the quality of care, quality of life and quality of work in long-term elderly care?*
 
-*How can text-mining support and deepen our understanding of narrative data collected in long-term care settings?*
+* How can text-mining support and deepen our understanding on quality of care, life and work in long-term care settings?*
 
-*How can we combine datasets from various sources in order to acquire innovative insights on long-term elderly care settings such as nursing homnes?*
+* How can we combine datasets from various sources in order to acquire innovative insights & knowledge on long-term elderly care settings such as nursing homnes?*
 
 ---
 
