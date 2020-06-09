@@ -42,6 +42,8 @@ PhD student at the Department of General Practice. School for Public Health and 
 Bachelor and Master Neuropsychology at Maastricht University & half year internship at the Memory Clinic of the Maastricht Academic Hospital.
 
 ## Research projects
+'Text-mining in healthcare', Maastrichrt University, AWO-ZL, 2020-224.
+
 'Monitor Personeelssamenstelling', Trimbos Utrecht & AWO-ZL, 2018-2019.
 
 'Ruimte voor Zorg', AWO-ZL, Maastricht University. PhD project of Katya Sion, 2017-current.
@@ -57,9 +59,9 @@ Bachelor and Master Neuropsychology at Maastricht University & half year interns
 ## Educational projects
 'Kansen in de zorg: de rol van digitale technology'. Course coordinator within 2nd year of Bachelor program ['Digital Technology and Care'](<https://www.maastrichtuniversity.nl/education/bachelor/bachelor-health-sciences/specialisations>), Maastricht University, 2019-onwards. 
 
-Committee for developing a new Bachelor program ['Digital Technology and Care'](<https://www.maastrichtuniversity.nl/education/bachelor/bachelor-health-sciences/specialisations>), Maastricht University, 2019-onwards.
-
 Online course for PhD students ['Statistics I'](https://www.maastrichtuniversity.nl/education/course/your-first-steps-statistics),  Maastricht University, 2018-onwards.
+
+Committee member for developing a new Bachelor program ['Digital Technology and Care'](<https://www.maastrichtuniversity.nl/education/bachelor/bachelor-health-sciences/specialisations>), Maastricht University, 2019-onwards.
 
 Minor ‘Technology in healthcare: technology acceptation’: third year students, two weeks (coordinator & lecturer), Fontys, 2017-2018
 
