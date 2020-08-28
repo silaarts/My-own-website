@@ -9,6 +9,11 @@ Here, you will find a list of my published articles. The list includes scientifi
 
 
 <!--more-->
+### 2020
+van de Baan F., Aarts S & Verbeek H. Amidst the COVID-19 Pandemic: Video Calling For Connecting with Family Residing in Nursing Homes. IPA Bulletin. 2020. Special Issue: Telehealth.
+
+Sion, K. Verbeek, H., Aarts, S., Zwakhalen, S., Odekerken-Schröder, G., Schols, J. Hamers, J. The Validity of Connecting Conversations: A Narrative Method to Assess Experienced Quality of Care in Nursing Homes from the Resident’s Perspective. International Journal of Environmental Research and Public Health 2020, 17, 5100.
+
 ### 2019
 
 Peek STM, Luijkx, KG, Vrijhoef HJM, Nieboer ME, Aarts S, van der Voort, CS, Rijnaard, MD, Wouters, EJM. [Understanding changes and stability in the long-term use of technologies by seniors who are aging in place: a dynamical framework.](<https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-019-1241-9>) BMC Geriatrics. 2019; 19 (236).
