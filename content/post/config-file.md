@@ -8,6 +8,8 @@ Here you can find some of my visualisations for [#TidyTuesday](<https://twitter.
 
 
 <!--more-->
+{{< figure src="/post/images/corn.png" >}}
+
 {{< figure src="/post/images/coffee.png" >}}
 
 {{< figure src="/post/images/achievements.png" >}}
