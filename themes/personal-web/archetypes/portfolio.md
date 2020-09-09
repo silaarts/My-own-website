@@ -8,8 +8,4 @@ techs: []
 designs: []
 thumbnail: 
 projectUrl: 
-testimonial:
-  name: 
-  role: 
-  text: 
 ---
