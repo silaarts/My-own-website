@@ -22,7 +22,7 @@ pygmentsCodeFences=true
 
 [params]
   breadcrumb = true
-  accentColor = "#6495ED"
+  accentColor = "black"
   mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
 
 [params.notFound]
