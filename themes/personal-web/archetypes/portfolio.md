@@ -11,6 +11,5 @@ projectUrl:
 testimonial:
   name: 
   role: 
-  image: 
   text: 
 ---
