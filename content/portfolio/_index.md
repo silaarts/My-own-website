@@ -5,7 +5,7 @@ title: PORTFOLIO
 
 I am a psychologist, with a master in neuropsychology. My PhD trajectory, which was conducted at two different research schools, i.e. Caphri and MHeNS (Mental Health and Neuroscience) at [Maastricht University](https://www.maastrichtuniversity.nl/nl>), was focused on multimorbidity, i.e. the co-occurrence of two or more chronic conditions within one person, and the adverse health effects thereof. In addition, my [PhD](/post/images/articles/Multimorbidity_in_general_practice_adverse_health_.pdf) focused on analyzing large amounts of data with innovative analyzing techniques such as data-and text mining.
 
-{{< figure src="/post/images/Proefschrift.jpg" caption="My Dissertation" width="600", heigt="300 >}}
+{{< figure src="/post/images/Proefschrift.jpg" caption="My Dissertation" width="600", heigt="300" >}}
 
 In 2010, I worked 4 months at the National Institute on Ageing (NIA), part of National Institutes of Health (NIH), in Bethesda, Maryland, where I conducted a study on the co-occurrence of multimorbidity, disability and frailty. During my bachelor and master trajectory, I noticed my interest in and, consequently, knowledge off, statistics. Fortunately, this was also noticed by several professors who gave me the opportunity to get involved in teaching several statistical courses. During my PhD trajectory, I also published several articles regarding statistics (e.g. [The insignificance of statistical significance](/post/images/articles/The insignificance of statistical significance.pdf) and [The importance of effect sizes](https://www.tandfonline.com/doi/full/10.3109/13814788.2013.818655)).
 
