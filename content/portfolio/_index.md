@@ -5,7 +5,7 @@ title: PORTFOLIO
 
 I am a psychologist, with a master in neuropsychology. My PhD trajectory, which was conducted at two different research schools, i.e. Caphri and MHeNS (Mental Health and Neuroscience) at [Maastricht University](https://www.maastrichtuniversity.nl/nl>), was focused on multimorbidity, i.e. the co-occurrence of two or more chronic conditions within one person, and the adverse health effects thereof. In addition, my [PhD](/post/images/articles/Multimorbidity_in_general_practice_adverse_health_.pdf) focused on analyzing large amounts of data with innovative analyzing techniques such as data-and text mining.
 
-{{< figure src="/post/images/Proefschrift.jpg" caption="My Dissertation" width="600" >}}
+{{< figure src="/post/images/Proefschrift.jpg" caption="My Dissertation" width="600", heigt="300 >}}
 
 In 2010, I worked 4 months at the National Institute on Ageing (NIA), part of National Institutes of Health (NIH), in Bethesda, Maryland, where I conducted a study on the co-occurrence of multimorbidity, disability and frailty. During my bachelor and master trajectory, I noticed my interest in and, consequently, knowledge off, statistics. Fortunately, this was also noticed by several professors who gave me the opportunity to get involved in teaching several statistical courses. During my PhD trajectory, I also published several articles regarding statistics (e.g. [The insignificance of statistical significance](/post/images/articles/The insignificance of statistical significance.pdf) and [The importance of effect sizes](https://www.tandfonline.com/doi/full/10.3109/13814788.2013.818655)).
 
@@ -42,7 +42,7 @@ PhD student at the Department of General Practice. School for Public Health and 
 Bachelor and Master Neuropsychology at Maastricht University & half year internship at the Memory Clinic of the Maastricht Academic Hospital.
 
 ## Research projects
-'Text-mining in healthcare', Maastricht University, AWO-ZL, 2020-224.
+'Text-mining in healthcare', Maastricht University, AWO-ZL, 2020-current.
 
 'Monitor Personeelssamenstelling', Trimbos Utrecht & AWO-ZL, 2018-2019.
 
@@ -50,9 +50,9 @@ Bachelor and Master Neuropsychology at Maastricht University & half year interns
 
 ‘SoCaTel, co-creation with older adults for better access to long-term care services’. Fontys, 2017-2018.
 
-‘Verpleeghuis van de toekomst is een thuis’, Fontys. Project of Joost van Hoof, 2014-2016.
+‘Verpleeghuis van de toekomst is een thuis’. Project of Joost van Hoof. Fontys, 2014-2016.
 
-‘Understanding technology acceptance by seniors who are aging in place: a dynamic perspective’, Fontys. PhD project of Sebastiaan Peek, 2012-2017.
+‘Understanding technology acceptance by seniors who are aging in place: a dynamic perspective’. PhD project of Sebastiaan Peek. Fontys, 2012-2017.
 
 ‘Ethics in practice-based research’ (incl. a book), Fontys Ethical Committee, 2013-2018.
 
