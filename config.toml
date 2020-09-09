@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Dr. Sil Aarts"
-  sub = "Assistant professor | scientist | teacher | AWO-ZL | UM"
+  sub = "Assistant professor | scientist | teacher | AWO-ZL | Maastricht University"
 
 [taxonomies]
   design = "designs"
@@ -23,7 +23,7 @@ pygmentsCodeFences=true
 [params]
   breadcrumb = true
   accentColor = "black"
-  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  mainSections = ['portfolio'] 
 
 [params.notFound]
   h1 = 'Yikes!'
