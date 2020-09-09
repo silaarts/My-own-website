@@ -37,7 +37,7 @@ pygmentsCodeFences=true
   blog = "blog"
 
 [params.sidebar]
-  backgroundImage = "post/images/tech.jpg"
+  backgroundImage = "post/images/pic2.jpg"
   gradientOverlay = '' # default: rgba(0,0,0.5,0.5),rgba(0,0,0.5,0.5)
   logo = "post/images/me_round.png" 
 [params.assets]
