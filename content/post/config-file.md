@@ -8,6 +8,8 @@ Here you can find some of my visualisations for [#TidyTuesday](<https://twitter.
 
 
 <!--more-->
+{{< figure src="/post/images/friends.png" >}}
+
 {{< figure src="/post/images/corn.png" >}}
 
 {{< figure src="/post/images/coffee.png" >}}
@@ -22,8 +24,6 @@ Here you can find some of my visualisations for [#TidyTuesday](<https://twitter.
 
 {{< figure src="/post/images/brain.png" >}}
 
-{{< figure src="/post/images/co2.png" >}}
-
 ![TidyTuesday Rainfall Australia](/post/images/RainfallAustralia.gif)
 
 {{< figure src="/post/images/Emperors.png" >}}
@@ -34,11 +34,7 @@ Here you can find some of my visualisations for [#TidyTuesday](<https://twitter.
 
 {{< figure src="/post/images/Horror.png" >}}
 
-{{< figure src="/post/images/powerlifts.png" >}}
-
 {{< figure src="/post/images/school.png" >}}
-
-{{< figure src="/post/images/Nationalparks.png" >}}
 
 {{< figure src="/post/images/Explosions.png" >}}
 
