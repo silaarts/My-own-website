@@ -11,7 +11,7 @@ Here, you will find a list of my published articles. The list includes scientifi
 <!--more-->
 ### 2020
 
-Aarts S. & Verbeek H. [Blog: Slim gebruik van data verbetert kwaliteit langdurige ouderenzorg](https://www.qruxx.com/slim-gebruik-van-data-verbetert-kwaliteit-van-zorg/) Qruxx. 2020.
+Aarts S. & Verbeek H. [Blog: Slim gebruik van data verbetert kwaliteit langdurige ouderenzorg.](https://www.qruxx.com/slim-gebruik-van-data-verbetert-kwaliteit-van-zorg/) Qruxx. 2020.
 
 Aarts S. & Verbeek H. [Blog: Oproep aan de langdurige ouderenzorg: gebruik die data!](https://www.skipr.nl/blog/oproep-aan-de-langdurige-ouderenzorg-gebruik-die-data/) Skipr. 2020.
 
