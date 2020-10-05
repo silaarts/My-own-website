@@ -10,13 +10,18 @@ Here, you will find a list of my published articles. The list includes scientifi
 
 <!--more-->
 ### 2020
-van de Baan F., Aarts S & Verbeek H. [Amidst the COVID-19 Pandemic: Video Calling For Connecting with Family Residing in Nursing Homes](https://www.researchgate.net/publication/343851300_Amidst_the_COVID-19_Pandemic_Video_Calling_For_Connecting_with_Family_Residing_in_Nursing_Homes). IPA Bulletin. 2020. Special Issue: Telehealth.
 
-Sion, K. Verbeek, H., Aarts, S., Zwakhalen, S., Odekerken-Schröder, G., Schols, J. Hamers, J. [The Validity of Connecting Conversations: A Narrative Method to Assess Experienced Quality of Care in Nursing Homes from the Resident’s Perspective.](https://www.researchgate.net/publication/342986833_The_Validity_of_Connecting_Conversations_A_Narrative_Method_to_Assess_Experienced_Quality_of_Care_in_Nursing_Homes_from_the_Resident's_Perspective). International Journal of Environmental Research and Public Health 2020, 17, 5100.
+Aarts S. & Verbeek H. [Blog: Slim gebruik van data verbetert kwaliteit langdurige ouderenzorg](https://www.qruxx.com/slim-gebruik-van-data-verbetert-kwaliteit-van-zorg/) Qruxx. 2020.
+
+Aarts S. & Verbeek H. [Blog: Oproep aan de langdurige ouderenzorg: gebruik die data!](https://www.skipr.nl/blog/oproep-aan-de-langdurige-ouderenzorg-gebruik-die-data/) Skipr. 2020.
+
+van de Baan F, Aarts S & Verbeek H. [Amidst the COVID-19 Pandemic: Video Calling For Connecting with Family Residing in Nursing Homes](https://www.researchgate.net/publication/343851300_Amidst_the_COVID-19_Pandemic_Video_Calling_For_Connecting_with_Family_Residing_in_Nursing_Homes). IPA Bulletin. 2020. Special Issue: Telehealth.
+
+Sion K, Verbeek H, Aarts S, Zwakhalen S, Odekerken-Schröder G, Schols J & Hamers J. [The Validity of Connecting Conversations: A Narrative Method to Assess Experienced Quality of Care in Nursing Homes from the Resident’s Perspective.](https://www.researchgate.net/publication/342986833_The_Validity_of_Connecting_Conversations_A_Narrative_Method_to_Assess_Experienced_Quality_of_Care_in_Nursing_Homes_from_the_Resident's_Perspective). International Journal of Environmental Research and Public Health 2020, 17, 5100.
 
 ### 2019
 
-Peek STM, Luijkx, KG, Vrijhoef HJM, Nieboer ME, Aarts S, van der Voort, CS, Rijnaard, MD, Wouters, EJM. [Understanding changes and stability in the long-term use of technologies by seniors who are aging in place: a dynamical framework.](<https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-019-1241-9>) BMC Geriatrics. 2019; 19 (236).
+Peek STM, Luijkx KG, Vrijhoef HJM, Nieboer ME, Aarts S, van der Voort, CS, Rijnaard, MD, Wouters, EJM. [Understanding changes and stability in the long-term use of technologies by seniors who are aging in place: a dynamical framework.](<https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-019-1241-9>) BMC Geriatrics. 2019; 19 (236).
 
 Aarts S. [Blog: Introducing new technology in radiography: how to increase adoption?](<https://www.carestream.com/blog/2019/04/15/increasing-adoption-of-technology-in-radiography/>) Carestream. 2019.
 
@@ -25,9 +30,9 @@ Aarts S. [Zijn significante resultaten ook klinisch relevant?](/post/images/arti
 ### 2018
 Aarts S & de Koning, A. [Correlatie-analyse.](/post/images/articles/Aarts-Koning2018_Article_Correlatie.pdf) Podosophia. 2018.
 
-Verkerk, MJ, van Hoof J, Aarts S, de Koning, SJMM, van der Plaats JJ. [A neurological and philosophical perspective on the design of environments and technology for older people with dementia.](/post/images/articles/JET-11-2017-0043.pdf) Journal of Enabling Technologies. 2018; 12 (2): 57-75.
+Verkerk MJ, van Hoof J, Aarts S, de Koning, SJMM, van der Plaats JJ. [A neurological and philosophical perspective on the design of environments and technology for older people with dementia.](/post/images/articles/JET-11-2017-0043.pdf) Journal of Enabling Technologies. 2018; 12 (2): 57-75.
 
-Peek STM, Luijkx, KG, Vrijhoef HJM, Nieboer ME, Aarts S, van der Voort, CS, Rijnaard, MD, Wouters, EJM. [A dynamical framework for understanding changes and stability in the use of technologies by independent-living seniors.](/post/images/articles/505b5b921e94426abf753fd10332c501.pdf) Journal of Gerontechnology. 2018; 60(60).
+Peek STM, Luijkx KG, Vrijhoef HJM, Nieboer ME, Aarts S, van der Voort, CS, Rijnaard, MD, Wouters, EJM. [A dynamical framework for understanding changes and stability in the use of technologies by independent-living seniors.](/post/images/articles/505b5b921e94426abf753fd10332c501.pdf) Journal of Gerontechnology. 2018; 60(60).
 
 Aarts S. [Social media usage among community-dwelling older adults.](/post/images/articles/AS7352359479173191552305318417_content_1.pdf) International Journal of Geriatric Psychiatry. 2018; 33(3):554-555.
 
