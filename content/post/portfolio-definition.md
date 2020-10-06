@@ -17,7 +17,9 @@ Aarts S. & Verbeek H. [Blog: Oproep aan de langdurige ouderenzorg: gebruik die d
 
 van de Baan F, Aarts S & Verbeek H. [Amidst the COVID-19 Pandemic: Video Calling For Connecting with Family Residing in Nursing Homes](https://www.researchgate.net/publication/343851300_Amidst_the_COVID-19_Pandemic_Video_Calling_For_Connecting_with_Family_Residing_in_Nursing_Homes). IPA Bulletin. 2020. Special Issue: Telehealth.
 
-Sion K, Verbeek H, Aarts S, Zwakhalen S, Odekerken-Schröder G, Schols J & Hamers J. [The Validity of Connecting Conversations: A Narrative Method to Assess Experienced Quality of Care in Nursing Homes from the Resident’s Perspective.](https://www.researchgate.net/publication/342986833_The_Validity_of_Connecting_Conversations_A_Narrative_Method_to_Assess_Experienced_Quality_of_Care_in_Nursing_Homes_from_the_Resident's_Perspective). International Journal of Environmental Research and Public Health 2020, 17, 5100.
+Sion K, Verbeek H, Aarts S, Zwakhalen S, Odekerken-Schröder G, Schols J & Hamers J. [The Validity of Connecting Conversations: A Narrative Method to Assess Experienced Quality of Care in Nursing Homes from the Resident’s Perspective.](https://www.researchgate.net/publication/342986833_The_Validity_of_Connecting_Conversations_A_Narrative_Method_to_Assess_Experienced_Quality_of_Care_in_Nursing_Homes_from_the_Resident's_Perspective). International Journal of Environmental Research and Public Health. 2020, 17, 5100.
+
+Prins M, van Erp J, Heijkants C, Backhaus R, Aarts S, Verbeek H, van der Schot A. [Discovering staffing issues and experiencing with staffing levels in Duitch nursing homes'(https://www.researchgate.net/publication/337178642_DISCOVERING_STAFFING_ISSUES_AND_EXPERIMENTING_WITH_STAFFING_LEVELS_IN_DUTCH_NURSING_HOMES). Innovation in Aging. 2019, Vol. 3, No. S1.
 
 ### 2019
 
