@@ -42,7 +42,7 @@ PhD student at the Department of General Practice. School for Public Health and 
 Bachelor and Master Neuropsychology at Maastricht University & half year internship at the Memory Clinic of the Maastricht Academic Hospital.
 
 ## Research projects
-'Text-mining in healthcare', Maastricht University, AWO-ZL, 2020-current.
+'Text-mining in long-term elderly care', Maastricht University, AWO-ZL, 2020-current.
 
 'Monitor Personeelssamenstelling', Trimbos Utrecht & AWO-ZL, 2018-2019.
 
