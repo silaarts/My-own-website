@@ -19,9 +19,10 @@ van de Baan F, Aarts S & Verbeek H. [Amidst the COVID-19 Pandemic: Video Calling
 
 Sion K, Verbeek H, Aarts S, Zwakhalen S, Odekerken-Schröder G, Schols J & Hamers J. [The Validity of Connecting Conversations: A Narrative Method to Assess Experienced Quality of Care in Nursing Homes from the Resident’s Perspective.](https://www.researchgate.net/publication/342986833_The_Validity_of_Connecting_Conversations_A_Narrative_Method_to_Assess_Experienced_Quality_of_Care_in_Nursing_Homes_from_the_Resident's_Perspective). International Journal of Environmental Research and Public Health. 2020, 17, 5100.
 
-Prins M, van Erp J, Heijkants C, Backhaus R, Aarts S, Verbeek H, van der Schot A. [Discovering staffing issues and experiencing with staffing levels in Duitch nursing homes'(https://www.researchgate.net/publication/337178642_DISCOVERING_STAFFING_ISSUES_AND_EXPERIMENTING_WITH_STAFFING_LEVELS_IN_DUTCH_NURSING_HOMES). Innovation in Aging. 2019, Vol. 3, No. S1.
 
 ### 2019
+
+Prins M, van Erp J, Heijkants C, Backhaus R, Aarts S, Verbeek H, van der Schot A. [Discovering staffing issues and experiencing with staffing levels in Duitch nursing homes'](https://www.researchgate.net/publication/337178642_DISCOVERING_STAFFING_ISSUES_AND_EXPERIMENTING_WITH_STAFFING_LEVELS_IN_DUTCH_NURSING_HOMES). Innovation in Aging. 2019; 3 (No.S1).
 
 Peek STM, Luijkx KG, Vrijhoef HJM, Nieboer ME, Aarts S, van der Voort, CS, Rijnaard, MD, Wouters, EJM. [Understanding changes and stability in the long-term use of technologies by seniors who are aging in place: a dynamical framework.](<https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-019-1241-9>) BMC Geriatrics. 2019; 19 (236).
 
