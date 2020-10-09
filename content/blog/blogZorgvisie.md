@@ -1,5 +1,5 @@
 ---
-title: "Vijf handvatten om data in de langdurige ouderenzorg te gebruike"
+title: "Vijf handvatten om data in de langdurige ouderenzorg te gebruiken"
 author: "Sil Aarts en Hilde Verbeek"
 publishDate: "2020-10-07"
 
