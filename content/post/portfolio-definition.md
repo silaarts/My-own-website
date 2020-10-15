@@ -5,11 +5,12 @@ publishDate: "2019-05-02T19:49:05+02:00"
 title: Research articles
 ---
 
-Here, you will find a list of my published articles. The list includes scientific articles published in peer-reviewed scientific journals as well as more popular articles often written for non-scientists.
+Here, you will find a list of my published articles and blogs. The list includes scientific articles published in peer-reviewed scientific journals as well as more popular articles often written for non-scientists.
 
 
 <!--more-->
 ### 2020
+Aarts S. & Verbeek H. [Blog: Vijf handvatten om data in de langdurige ouderenzorg te gebruiken.](https://www.zorgvisie.nl/blog/vijf-handvatten-om-data-in-de-langdurige-ouderenzorg-te-gebruiken/) Zorgvisie. 2020.
 
 Aarts S. & Verbeek H. [Blog: Slim gebruik van data verbetert kwaliteit langdurige ouderenzorg.](https://www.qruxx.com/slim-gebruik-van-data-verbetert-kwaliteit-van-zorg/) Qruxx. 2020.
 
