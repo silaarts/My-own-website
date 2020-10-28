@@ -10,6 +10,8 @@ Here, you will find a list of my published articles and blogs. The list includes
 
 <!--more-->
 ### 2020
+Manen A., Aarts S., Metzelthin S., Verbeek H., Hamers J. & Zwakhalen S. [A communication model for nursing staff working in dementia care: Results of a scoping review](https://www.sciencedirect.com/science/article/pii/S0020748920302625?via%3Dihub) International Journal of Nursing Studies. 2020, 113.
+
 Aarts S. & Verbeek H. [Blog: Vijf handvatten om data in de langdurige ouderenzorg te gebruiken.](https://www.zorgvisie.nl/blog/vijf-handvatten-om-data-in-de-langdurige-ouderenzorg-te-gebruiken/) Zorgvisie. 2020.
 
 Aarts S. & Verbeek H. [Blog: Slim gebruik van data verbetert kwaliteit langdurige ouderenzorg.](https://www.qruxx.com/slim-gebruik-van-data-verbetert-kwaliteit-van-zorg/) Qruxx. 2020.
