@@ -10,7 +10,7 @@ Here, you will find a list of my published articles and blogs. The list includes
 
 <!--more-->
 ### 2020
-Aarts S, Daniels R, Hamers J, Verbeek H. [Data in de langdurige ouderenzorg] (https://www.verenso.nl/magazine-november-2020/no-5-november-2020/vaste-rubrieken/sano-data-in-de-langdurige-ouderenzorg). Tijdschrift voor Ouderengeneeskunde. 2020.
+Aarts S, Daniels R, Hamers J, Verbeek H. [Data in de langdurige ouderenzorg](https://www.verenso.nl/magazine-november-2020/no-5-november-2020/vaste-rubrieken/sano-data-in-de-langdurige-ouderenzorg). Tijdschrift voor Ouderengeneeskunde. 2020.
 
 Manen A., Aarts S., Metzelthin S., Verbeek H., Hamers J. & Zwakhalen S. [A communication model for nursing staff working in dementia care: Results of a scoping review](https://www.sciencedirect.com/science/article/pii/S0020748920302625?via%3Dihub) International Journal of Nursing Studies. 2020, 113.
 
