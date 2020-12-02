@@ -10,7 +10,7 @@ Here, you will find a list of my published articles and blogs. The list includes
 
 <!--more-->
 ### 2020
-Aarts S, Daniels R, Hamers J, Verbeek H. [Data in de langdurige ouderenzorg](https://www.verenso.nl/magazine-november-2020/no-5-november-2020/vaste-rubrieken/sano-data-in-de-langdurige-ouderenzorg). Tijdschrift voor Ouderengeneeskunde. 2020.
+Aarts S., Daniels R., Hamers J. & Verbeek H. [Data in de langdurige ouderenzorg](https://www.verenso.nl/magazine-november-2020/no-5-november-2020/vaste-rubrieken/sano-data-in-de-langdurige-ouderenzorg). Tijdschrift voor Ouderengeneeskunde. 2020.
 
 Manen A., Aarts S., Metzelthin S., Verbeek H., Hamers J. & Zwakhalen S. [A communication model for nursing staff working in dementia care: Results of a scoping review](https://www.sciencedirect.com/science/article/pii/S0020748920302625?via%3Dihub) International Journal of Nursing Studies. 2020, 113.
 
@@ -27,7 +27,7 @@ Sion K, Verbeek H, Aarts S, Zwakhalen S, Odekerken-Schröder G, Schols J & Hamer
 
 ### 2019
 
-Prins M, van Erp J, Heijkants C, Backhaus R, Aarts S, Verbeek H, van der Schot A. [Discovering staffing issues and experiencing with staffing levels in Duitch nursing homes'](https://www.researchgate.net/publication/337178642_DISCOVERING_STAFFING_ISSUES_AND_EXPERIMENTING_WITH_STAFFING_LEVELS_IN_DUTCH_NURSING_HOMES). Innovation in Aging. 2019; 3 (No.S1).
+Prins M, van Erp J, Heijkants C, Backhaus R, Aarts S, Verbeek H, van der Schot A. [Discovering staffing issues and experiencing with staffing levels in Dutch nursing homes'](https://www.researchgate.net/publication/337178642_DISCOVERING_STAFFING_ISSUES_AND_EXPERIMENTING_WITH_STAFFING_LEVELS_IN_DUTCH_NURSING_HOMES). Innovation in Aging. 2019; 3 (No.S1).
 
 Peek STM, Luijkx KG, Vrijhoef HJM, Nieboer ME, Aarts S, van der Voort, CS, Rijnaard, MD, Wouters, EJM. [Understanding changes and stability in the long-term use of technologies by seniors who are aging in place: a dynamical framework.](<https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-019-1241-9>) BMC Geriatrics. 2019; 19 (236).
 
