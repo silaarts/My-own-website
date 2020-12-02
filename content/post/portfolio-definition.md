@@ -10,6 +10,8 @@ Here, you will find a list of my published articles and blogs. The list includes
 
 <!--more-->
 ### 2020
+Aarts S, Daniels R, Hamers J, Verbeek H. [Data in de langdurige ouderenzorg] (https://www.verenso.nl/magazine-november-2020/no-5-november-2020/vaste-rubrieken/sano-data-in-de-langdurige-ouderenzorg). Tijdschrift voor Ouderengeneeskunde. 2020.
+
 Manen A., Aarts S., Metzelthin S., Verbeek H., Hamers J. & Zwakhalen S. [A communication model for nursing staff working in dementia care: Results of a scoping review](https://www.sciencedirect.com/science/article/pii/S0020748920302625?via%3Dihub) International Journal of Nursing Studies. 2020, 113.
 
 Aarts S. & Verbeek H. [Blog: Vijf handvatten om data in de langdurige ouderenzorg te gebruiken.](https://www.zorgvisie.nl/blog/vijf-handvatten-om-data-in-de-langdurige-ouderenzorg-te-gebruiken/) Zorgvisie. 2020.
@@ -20,7 +22,7 @@ Aarts S. & Verbeek H. [Blog: Oproep aan de langdurige ouderenzorg: gebruik die d
 
 van de Baan F, Aarts S & Verbeek H. [Amidst the COVID-19 Pandemic: Video Calling For Connecting with Family Residing in Nursing Homes](https://www.researchgate.net/publication/343851300_Amidst_the_COVID-19_Pandemic_Video_Calling_For_Connecting_with_Family_Residing_in_Nursing_Homes). IPA Bulletin. 2020. Special Issue: Telehealth.
 
-Sion K, Verbeek H, Aarts S, Zwakhalen S, Odekerken-Schröder G, Schols J & Hamers J. [The Validity of Connecting Conversations: A Narrative Method to Assess Experienced Quality of Care in Nursing Homes from the Resident’s Perspective.](https://www.researchgate.net/publication/342986833_The_Validity_of_Connecting_Conversations_A_Narrative_Method_to_Assess_Experienced_Quality_of_Care_in_Nursing_Homes_from_the_Resident's_Perspective). International Journal of Environmental Research and Public Health. 2020, 17, 5100.
+Sion K, Verbeek H, Aarts S, Zwakhalen S, Odekerken-Schröder G, Schols J & Hamers J. [The Validity of Connecting Conversations: A Narrative Method to Assess Experienced Quality of Care in Nursing Homes from the Resident’s Perspective.](https://www.researchgate.net/publication/342986833_The_Validity_of_Connecting_Conversations_A_Narrative_Method_to_Assess_Experienced_Quality_of_Care_in_Nursing_Homes_from_the_Resident's_Perspective). International Journal of Environmental Research and Public Health. 2020: 17, 5100.
 
 
 ### 2019
