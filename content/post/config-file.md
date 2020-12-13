@@ -10,6 +10,8 @@ Here you can find some of my visualisations for [#TidyTuesday](<https://twitter.
 <!--more-->
 {{< figure src="/post/images/beer.png" >}}
 
+{{< figure src="/post/images/kidsspending.png" >}}
+
 {{< figure src="/post/images/friends.png" >}}
 
 {{< figure src="/post/images/corn.png" >}}
