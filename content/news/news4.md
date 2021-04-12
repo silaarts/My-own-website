@@ -10,6 +10,6 @@ publishDate: "2020-04-05"
 In: Vignette
 
 
-[{{< figure src="/post/images/vig.png" >}}](https://vignette.md/interviews/2021-04-05-sil-aarts/) for the interview!
+[{{< figure src="/post/images/vig.png" >}}](https://vignette.md/interviews/2021-04-05-sil-aarts/)
 
 
