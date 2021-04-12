@@ -12,9 +12,9 @@ Of course, there is my family (always number one). But then there is more.  .  .
 <!--more-->
 
 I really, really love: 
- 🗺  ⚽️  🏃 🏋 🎄 ☃️  🎸 📚 👗
+ 🗺 🎵 ⚽️  🏃 🏋 🎄 ☃️  🎸 📚 👗
 
-Here's a map of one of my favourite cities in the world, coded in R. 
+Because I absolutely love to travel (& wander!), here's a map of one of my favourite cities in the world, coded in R. 
 I just love to travel, explore and wander!
 {{< figure src="/post/images/map.png" >}}
 
