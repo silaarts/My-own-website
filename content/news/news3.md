@@ -7,4 +7,7 @@ publishDate: "2020-03-13"
 
 ### “Data is kennis”
 
+{{< figure src="/post/images/sil1.jpg" >}}
+{{< figure src="/post/images/sil2.jpg" >}}
+
 
