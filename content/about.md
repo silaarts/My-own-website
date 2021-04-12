@@ -7,21 +7,21 @@ Whether it is data sharing between healthcare organisations, assistive technolog
 
 {{< figure src="/post/images/head.png" >}}
 
-Since 2018, I am working as an assistant professor at [AWO-ZL](<https://www.academischewerkplaatsouderenzorg.nl/>), part of the [Maastricht University](<https://www.maastrichtuniversity.nl/nl>). My research line is primarily focused on the use of data accumulated in long-term elderly care. With the use of innovative, data-driven explorations we can increase our knowledge on quality of care, quality of life and quality of work in long-term elderly care. 
+Since 2018, I am working as an assistant professor at [AWO-ZL](<https://www.academischewerkplaatsouderenzorg.nl/>), part of the [Maastricht University](<https://www.maastrichtuniversity.nl/nl>). My research line is primarily focused on the use of data accumulated in long-term care for older adults. With the use of innovative, data-driven explorations we can increase our knowledge on quality of care, quality of life and quality of work in long-term care for older adults. 
 
 ---
 
 Questions that interest me and that are related to my research line:
 
-* Which role can data (and the analyses thereof) play in studying quality of care? How can these types of data improve the quality of care, quality of life and quality of work in long-term elderly care?*
+* Which role can data (and the analyses thereof) play in studying quality of care? How can these types of data improve the quality of care, quality of life and quality of work in long-term care for older adults?*
 
-* How can text-mining support and deepen our understanding on quality of care, life and work in long-term care settings?*
+* How can text-mining support and deepen our understanding on quality of care, quality of life and quality of work in long-term care settings? For example by analysing electronic health records.*
 
-* How can we combine datasets from various sources in order to acquire innovative insights & knowledge on long-term elderly care settings such as nursing homnes?*
+* How can we combine datasets from various sources in order to acquire innovative insights regarding long-term care for older adults including nursing homes?*
 
 ---
 
-In my current job, I spend half my time on research, and half my time on education. However, combining those two is one thing I really love. In this manner, I am a committee member of ['Digital Technology and Care'](<https://www.maastrichtuniversity.nl/nl/onderwijs/bachelor/bachelor-gezondheidswetenschappen/specialisaties#DTG>). This committee is aimed at setting-up a new bachelor and master trajectory as part of the Health Sciences program. After the first introductory and general year, students will start the second year with this specialization.
+In my current job, I spend half my time on research, and half my time on education. However, combining those two is one thing I really love. In this manner, I am a committee member of ['Digital Technology and Care'](<https://www.maastrichtuniversity.nl/nl/onderwijs/bachelor/bachelor-gezondheidswetenschappen/specialisaties#DTG>). This committee is aimed at setting-up a new bachelor and master trajectory as part of the Health Sciences program. After the first introductory and general year, students will start the second year with this specialization. In addition, I am also working as a 'linking-pin' at a long-term care organisation. Here, I intertwine daily care practice scientific with research.
 
 On this website you will find my portfolio and more and a list of my publications including downloadable PDFs or links to websites in case of online articles. In addition, also some of my datavisualisations are displayed here even as my blog posts.
 
