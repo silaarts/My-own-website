@@ -21,9 +21,9 @@ Questions that interest me and that are related to my research line:
 
 ---
 
-In my current job, I spend half my time on research, and half my time on education. However, combining those two is one thing I really love. In this manner, I am a committee member of ['Digital Technology and Care'](<https://www.maastrichtuniversity.nl/nl/onderwijs/bachelor/bachelor-gezondheidswetenschappen/specialisaties#DTG>). This committee is aimed at setting-up a new bachelor and master trajectory as part of the Health Sciences program. After the first introductory and general year, students will start the second year with this specialization. In addition, I am also working as a 'linking-pin' at a long-term care organisation. Here, I intertwine daily care practice scientific with research.
+In my current job, I spend half my time on research, and half my time on education. However, combining those two is one thing I really love. In this manner, I am a committee member of ['Digital Technology and Care'](<https://www.maastrichtuniversity.nl/nl/onderwijs/bachelor/bachelor-gezondheidswetenschappen/specialisaties#DTG>). This committee is aimed at setting-up a new bachelor and master trajectory as part of the Health Sciences program. After the first introductory and general year, students will start the second year with this specialization. In addition, I am also working as a 'linking-pin' at a long-term care organisation. Here, I intertwine daily care practice with scientific with research.
 
-On this website you will find my portfolio and more and a list of my publications including downloadable PDFs or links to websites in case of online articles. In addition, also some of my datavisualisations are displayed here even as my blog posts.
+On this website you will find, among other things, my portfolio and a list of my publications including downloadable PDFs or links to websites in case of online articles. In addition, also some of my datavisualisations are displayed here even as my blog posts.
 
 ### Interests in keywords
 Data-driven explorations (incl. text-mining), R(stats) (currently learning Python), Quality of Care, Long-term Elderly Care, Nursing Home Care, Statistical Analysis, Qualitative Research, Technology Acceptance & Implementation 🤖, Ethics. 
